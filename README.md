@@ -1,4 +1,4 @@
-# calorie-counter
+# ***Calorie Counter***
 
 ## Table of JavaScript Methods
 
